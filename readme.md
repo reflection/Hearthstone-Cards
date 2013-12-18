@@ -17,6 +17,8 @@ A list of of all existing cards in "Hearthstone: Heroes of Warcraft" in JSON for
 }
 ```
 
+![Ysera](https://raw.github.com/nckg/Hearthstone-Cards/master/cards/EX1_572.png)
+
 ## Bower
 You can install it with [Bower](http://bower.io/).
 
