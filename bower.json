@@ -1,0 +1,23 @@
+{
+  "name": "hearthstone-cards",
+  "version": "0.1.0",
+  "authors": [
+    "nckgr <nickgoris@gmail.com>"
+  ],
+  "description": "A list of of all existing cards in \"Hearthstone: Heroes of Warcraft\" in JSON format. Including images.",
+  "main": "hearthstone.json",
+  "keywords": [
+    "hearthstone",
+    "deck",
+    "cards",
+    "card"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
