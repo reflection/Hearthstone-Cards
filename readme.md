@@ -1,5 +1,5 @@
 # HearthStone Cards
-A list of of all existing cards in "Hearthstone: Heroes of Warcraft" in JSON format.Including images.
+A list of of all existing cards in "Hearthstone: Heroes of Warcraft" (a game by [Blizzard](blizzard.com)) in JSON format.Including images.
 
 ## Example
 
