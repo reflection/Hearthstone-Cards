@@ -73,8 +73,8 @@
     },
     {
         "name": "Totemic Might",
-        "rarity": null,
-        "type": null,
+        "rarity": "Common",
+        "type": "Ability",
         "race": "None",
         "class": "Shaman",
         "manna": 0,
@@ -85,8 +85,8 @@
     },
     {
         "name": "Dragonling Mechanic",
-        "rarity": null,
-        "type": null,
+        "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -109,7 +109,7 @@
     },
     {
         "name": "Hungry Crab",
-        "rarity": null,
+        "rarity": "Epic",
         "type": null,
         "race": "Beast",
         "class": "Any",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Violet Teacher",
-        "rarity": null,
+        "rarity": "Rare",
         "type": null,
         "race": "None",
         "class": "Any",
@@ -217,7 +217,7 @@
     },
     {
         "name": "Blessing of Might",
-        "rarity": null,
+        "rarity": "Common",
         "type": null,
         "race": "None",
         "class": "Paladin",
@@ -277,7 +277,7 @@
     },
     {
         "name": "Stampeding Kodo",
-        "rarity": null,
+        "rarity": "Rare",
         "type": null,
         "race": "Beast",
         "class": "Any",
@@ -301,7 +301,7 @@
     },
     {
         "name": "Gruul",
-        "rarity": null,
+        "rarity": "Legendary",
         "type": null,
         "race": "None",
         "class": "Any",
@@ -385,7 +385,7 @@
     },
     {
         "name": "Injured Blademaster",
-        "rarity": null,
+        "rarity": "Rare",
         "type": null,
         "race": "None",
         "class": "Any",
@@ -421,7 +421,7 @@
     },
     {
         "name": "Silvermoon Guardian",
-        "rarity": null,
+        "rarity": "Common",
         "type": null,
         "race": "None",
         "class": "Any",
@@ -517,7 +517,7 @@
     },
     {
         "name": "Far Sight",
-        "rarity": null,
+        "rarity": "Epic",
         "type": null,
         "race": "None",
         "class": "Shaman",
@@ -589,7 +589,7 @@
     },
     {
         "name": "Shadow Madness",
-        "rarity": null,
+        "rarity": "Rare",
         "type": null,
         "race": "None",
         "class": "Priest",
@@ -613,7 +613,7 @@
     },
     {
         "name": "Alarm-o-Bot",
-        "rarity": null,
+        "rarity": "Rare",
         "type": null,
         "race": "None",
         "class": "Any",
@@ -637,7 +637,7 @@
     },
     {
         "name": "Young Priestess",
-        "rarity": null,
+        "rarity": "Rare",
         "type": null,
         "race": "None",
         "class": "Any",
@@ -685,7 +685,7 @@
     },
     {
         "name": "Earth Shock",
-        "rarity": null,
+        "rarity": "Common"rar,
         "type": null,
         "race": "None",
         "class": "Shaman",
@@ -709,7 +709,7 @@
     },
     {
         "name": "Ironfur Grizzly",
-        "rarity": null,
+        "rarity": "Common",
         "type": null,
         "race": "Beast",
         "class": "Any",
@@ -3817,8 +3817,8 @@
     },
     {
         "name": "Shadow Word: Pain",
-        "rarity": null,
-        "type": null,
+        "rarity": "Common",
+        "type": "Ability",
         "race": "None",
         "class": "Priest",
         "manna": 2,
@@ -3877,8 +3877,8 @@
     },
     {
         "name": "Secretkeeper",
-        "rarity": null,
-        "type": null,
+        "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -3889,8 +3889,8 @@
     },
     {
         "name": "Dread Corsair",
-        "rarity": null,
-        "type": null,
+        "rarity": "Common",
+        "type": "Minion",
         "race": "Pirate",
         "class": "Any",
         "manna": 4,
@@ -4141,8 +4141,8 @@
     },
     {
         "name": "Ancient Mage",
-        "rarity": null,
-        "type": null,
+        "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -4165,8 +4165,8 @@
     },
     {
         "name": "Shadow Word: Death",
-        "rarity": null,
-        "type": null,
+        "rarity": "Common",
+        "type": "Ability",
         "race": "None",
         "class": "Priest",
         "manna": 3,
@@ -4213,8 +4213,8 @@
     },
     {
         "name": "Sunwalker",
-        "rarity": null,
-        "type": null,
+        "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -4273,8 +4273,8 @@
     },
     {
         "name": "Alexstrasza",
-        "rarity": null,
-        "type": null,
+        "rarity": "Legendary",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 9,
@@ -4345,8 +4345,8 @@
     },
     {
         "name": "Temple Enforcer",
-        "rarity": null,
-        "type": null,
+        "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Priest",
         "manna": 6,
@@ -4357,8 +4357,8 @@
     },
     {
         "name": "Imp Master",
-        "rarity": null,
-        "type": null,
+        "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -4405,8 +4405,8 @@
     },
     {
         "name": "Faceless Manipulator",
-        "rarity": null,
-        "type": null,
+        "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -4573,8 +4573,8 @@
     },
     {
         "name": "Elite Tauren Chieftain",
-        "rarity": null,
-        "type": null,
+        "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
