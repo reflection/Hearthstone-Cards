@@ -2,6 +2,7 @@
     {
         "name": "Edwin VanCleef",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Rogue",
         "manna": 3,
@@ -13,6 +14,7 @@
     {
         "name": "Perdition's Blade",
         "rarity": "Rare",
+        "type": "Weapon",
         "race": "None",
         "class": "Rogue",
         "manna": 3,
@@ -24,6 +26,7 @@
     {
         "name": "Bloodsail Raider",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Pirate",
         "class": "Any",
         "manna": 2,
@@ -35,6 +38,7 @@
     {
         "name": "Bloodmage Thalnos",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -46,6 +50,7 @@
     {
         "name": "Wisp",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 0,
@@ -57,6 +62,7 @@
     {
         "name": "Sen'jin Shieldmasta",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -68,6 +74,7 @@
     {
         "name": "Totemic Might",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Shaman",
         "manna": 0,
@@ -79,6 +86,7 @@
     {
         "name": "Dragonling Mechanic",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -90,6 +98,7 @@
     {
         "name": "Mogu'shan Warden",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -101,6 +110,7 @@
     {
         "name": "Hungry Crab",
         "rarity": null,
+        "type": null,
         "race": "Beast",
         "class": "Any",
         "manna": 1,
@@ -112,6 +122,7 @@
     {
         "name": "Misdirection",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 2,
@@ -123,6 +134,7 @@
     {
         "name": "Patient Assassin",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -134,6 +146,7 @@
     {
         "name": "Violet Teacher",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -145,6 +158,7 @@
     {
         "name": "Arathi Weaponsmith",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 4,
@@ -156,6 +170,7 @@
     {
         "name": "Acolyte of Pain",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -167,6 +182,7 @@
     {
         "name": "Holy Nova",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 5,
@@ -178,6 +194,7 @@
     {
         "name": "Commanding Shout",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -189,6 +206,7 @@
     {
         "name": "Unbound Elemental",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Shaman",
         "manna": 3,
@@ -200,6 +218,7 @@
     {
         "name": "Blessing of Might",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -211,6 +230,7 @@
     {
         "name": "Blessing of Kings",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 4,
@@ -222,6 +242,7 @@
     {
         "name": "Polymorph",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 4,
@@ -233,6 +254,7 @@
     {
         "name": "Dark Iron Dwarf",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -244,6 +266,7 @@
     {
         "name": "Charge",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 0,
@@ -255,6 +278,7 @@
     {
         "name": "Stampeding Kodo",
         "rarity": null,
+        "type": null,
         "race": "Beast",
         "class": "Any",
         "manna": 5,
@@ -266,6 +290,7 @@
     {
         "name": "Humility",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -277,6 +302,7 @@
     {
         "name": "Gruul",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 8,
@@ -288,6 +314,7 @@
     {
         "name": "Mark of the Wild",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 2,
@@ -299,6 +326,7 @@
     {
         "name": "Worgen Infiltrator",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -310,6 +338,7 @@
     {
         "name": "Frostbolt",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 2,
@@ -321,6 +350,7 @@
     {
         "name": "Flametongue Totem",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Totem",
         "class": "Shaman",
         "manna": 2,
@@ -332,6 +362,7 @@
     {
         "name": "Assassinate",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 5,
@@ -343,6 +374,7 @@
     {
         "name": "Lord of the Arena",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -354,6 +386,7 @@
     {
         "name": "Injured Blademaster",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -365,6 +398,7 @@
     {
         "name": "Siphon Soul",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 6,
@@ -376,6 +410,7 @@
     {
         "name": "Lay on Hands",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 8,
@@ -387,6 +422,7 @@
     {
         "name": "Silvermoon Guardian",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -398,6 +434,7 @@
     {
         "name": "Mind Vision",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 1,
@@ -409,6 +446,7 @@
     {
         "name": "Core Hound",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 7,
@@ -420,6 +458,7 @@
     {
         "name": "Grimscale Oracle",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 1,
@@ -431,6 +470,7 @@
     {
         "name": "Lightning Storm",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 3,
@@ -442,6 +482,7 @@
     {
         "name": "Lightwell",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 2,
@@ -453,6 +494,7 @@
     {
         "name": "Coldlight Seer",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 3,
@@ -464,6 +506,7 @@
     {
         "name": "Gorehowl",
         "rarity": "Epic",
+        "type": "Weapon",
         "race": "None",
         "class": "Warrior",
         "manna": 7,
@@ -475,6 +518,7 @@
     {
         "name": "Far Sight",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Shaman",
         "manna": 3,
@@ -486,6 +530,7 @@
     {
         "name": "Chillwind Yeti",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -497,6 +542,7 @@
     {
         "name": "Moonfire",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 0,
@@ -508,6 +554,7 @@
     {
         "name": "Blade Flurry",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -519,6 +566,7 @@
     {
         "name": "Mass Dispel",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 4,
@@ -530,6 +578,7 @@
     {
         "name": "Crazed Alchemist",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -541,6 +590,7 @@
     {
         "name": "Shadow Madness",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 4,
@@ -552,6 +602,7 @@
     {
         "name": "Equality",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 2,
@@ -563,6 +614,7 @@
     {
         "name": "Alarm-o-Bot",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -574,6 +626,7 @@
     {
         "name": "Animal Companion",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 3,
@@ -585,6 +638,7 @@
     {
         "name": "Young Priestess",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -596,6 +650,7 @@
     {
         "name": "Gadgetzan Auctioneer",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -607,6 +662,7 @@
     {
         "name": "Starfall",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 5,
@@ -618,6 +674,7 @@
     {
         "name": "Cone of Cold",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 4,
@@ -629,6 +686,7 @@
     {
         "name": "Earth Shock",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Shaman",
         "manna": 1,
@@ -640,6 +698,7 @@
     {
         "name": "Tirion Fordring",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Paladin",
         "manna": 8,
@@ -651,6 +710,7 @@
     {
         "name": "Ironfur Grizzly",
         "rarity": null,
+        "type": null,
         "race": "Beast",
         "class": "Any",
         "manna": 3,
@@ -662,6 +722,7 @@
     {
         "name": "Headcrack",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 3,
@@ -673,6 +734,7 @@
     {
         "name": "Arcane Shot",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 1,
@@ -684,6 +746,7 @@
     {
         "name": "Void Terror",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 3,
@@ -695,6 +758,7 @@
     {
         "name": "Mortal Coil",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 1,
@@ -706,6 +770,7 @@
     {
         "name": "Execute",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 1,
@@ -717,6 +782,7 @@
     {
         "name": "Bloodlust",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 5,
@@ -728,6 +794,7 @@
     {
         "name": "Kidnapper",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Rogue",
         "manna": 6,
@@ -739,6 +806,7 @@
     {
         "name": "Old Murk-Eye",
         "rarity": null,
+        "type": null,
         "race": "Murloc",
         "class": "Any",
         "manna": 4,
@@ -750,6 +818,7 @@
     {
         "name": "Backstab",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 0,
@@ -761,6 +830,7 @@
     {
         "name": "Murloc Warleader",
         "rarity": null,
+        "type": null,
         "race": "Murloc",
         "class": "Any",
         "manna": 3,
@@ -772,6 +842,7 @@
     {
         "name": "Shadowstep",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 0,
@@ -783,6 +854,7 @@
     {
         "name": "Ancestral Spirit",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 2,
@@ -794,6 +866,7 @@
     {
         "name": "Defender of Argus",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -805,6 +878,7 @@
     {
         "name": "Assassin's Blade",
         "rarity": "Basic",
+        "type": "Weapon",
         "race": "None",
         "class": "Rogue",
         "manna": 5,
@@ -816,6 +890,7 @@
     {
         "name": "Big Game Hunter",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -827,6 +902,7 @@
     {
         "name": "Aldor Peacekeeper",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Paladin",
         "manna": 3,
@@ -838,6 +914,7 @@
     {
         "name": "Blizzard",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 6,
@@ -849,6 +926,7 @@
     {
         "name": "Unleash the Hounds",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 4,
@@ -860,6 +938,7 @@
     {
         "name": "Sap",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -871,6 +950,7 @@
     {
         "name": "Gnomish Inventor",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -882,6 +962,7 @@
     {
         "name": "Mind Control",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 10,
@@ -893,6 +974,7 @@
     {
         "name": "Ravenholdt Assassin",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 7,
@@ -904,6 +986,7 @@
     {
         "name": "Ice Lance",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 1,
@@ -915,6 +998,7 @@
     {
         "name": "Acidic Swamp Ooze",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -926,6 +1010,7 @@
     {
         "name": "Blessed Champion",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 5,
@@ -937,6 +1022,7 @@
     {
         "name": "Savannah Highmane",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Beast",
         "class": "Hunter",
         "manna": 6,
@@ -948,6 +1034,7 @@
     {
         "name": "Dire Wolf Alpha",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 2,
@@ -959,6 +1046,7 @@
     {
         "name": "Blessing of Wisdom",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -970,6 +1058,7 @@
     {
         "name": "Abusive Sergeant",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -981,6 +1070,7 @@
     {
         "name": "Sylvanas Windrunner",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -992,6 +1082,7 @@
     {
         "name": "Cruel Taskmaster",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -1003,6 +1094,7 @@
     {
         "name": "Lightning Bolt",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 1,
@@ -1014,6 +1106,7 @@
     {
         "name": "Keeper of the Grove",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Druid",
         "manna": 4,
@@ -1025,6 +1118,7 @@
     {
         "name": "Multi-Shot",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 4,
@@ -1036,6 +1130,7 @@
     {
         "name": "Pint-Sized Summoner",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1047,6 +1142,7 @@
     {
         "name": "Spellbreaker",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -1058,6 +1154,7 @@
     {
         "name": "Deadly Poison",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 1,
@@ -1069,6 +1166,7 @@
     {
         "name": "Fan of Knives",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 3,
@@ -1080,6 +1178,7 @@
     {
         "name": "Shieldbearer",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -1091,6 +1190,7 @@
     {
         "name": "Sense Demons",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 3,
@@ -1102,6 +1202,7 @@
     {
         "name": "Shield Block",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 3,
@@ -1113,6 +1214,7 @@
     {
         "name": "Ancient of Lore",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Druid",
         "manna": 7,
@@ -1124,6 +1226,7 @@
     {
         "name": "Oasis Snapjaw",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 4,
@@ -1135,6 +1238,7 @@
     {
         "name": "Frostwolf Grunt",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1146,6 +1250,7 @@
     {
         "name": "Wild Pyromancer",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1157,6 +1262,7 @@
     {
         "name": "Razorfen Hunter",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -1168,6 +1274,7 @@
     {
         "name": "Twisting Nether",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 8,
@@ -1179,6 +1286,7 @@
     {
         "name": "Malygos",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 9,
@@ -1190,6 +1298,7 @@
     {
         "name": "Millhouse Manastorm",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1201,6 +1310,7 @@
     {
         "name": "Inner Fire",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 1,
@@ -1212,6 +1322,7 @@
     {
         "name": "Soul of the Forest",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Druid",
         "manna": 4,
@@ -1223,6 +1334,7 @@
     {
         "name": "Bloodsail Corsair",
         "rarity": null,
+        "type": null,
         "race": "Pirate",
         "class": "Any",
         "manna": 1,
@@ -1234,6 +1346,7 @@
     {
         "name": "Tinkmaster Overspark",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -1245,6 +1358,7 @@
     {
         "name": "Ice Block",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -1256,6 +1370,7 @@
     {
         "name": "Brawl",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 5,
@@ -1267,6 +1382,7 @@
     {
         "name": "Vanish",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 6,
@@ -1278,6 +1394,7 @@
     {
         "name": "King Mukla",
         "rarity": null,
+        "type": null,
         "race": "Beast",
         "class": "Any",
         "manna": 3,
@@ -1289,6 +1406,7 @@
     {
         "name": "Truesilver Champion",
         "rarity": "Basic",
+        "type": "Weapon",
         "race": "None",
         "class": "Paladin",
         "manna": 4,
@@ -1300,6 +1418,7 @@
     {
         "name": "Harrison Jones",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -1311,6 +1430,7 @@
     {
         "name": "War Golem",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 7,
@@ -1322,6 +1442,7 @@
     {
         "name": "Warsong Commander",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 3,
@@ -1333,6 +1454,7 @@
     {
         "name": "Mana Wyrm",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Mage",
         "manna": 1,
@@ -1344,6 +1466,7 @@
     {
         "name": "Savagery",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 1,
@@ -1355,6 +1478,7 @@
     {
         "name": "Spiteful Smith",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -1366,6 +1490,7 @@
     {
         "name": "Shattered Sun Cleric",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -1377,6 +1502,7 @@
     {
         "name": "Eye for an Eye",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -1388,6 +1514,7 @@
     {
         "name": "Azure Drake",
         "rarity": null,
+        "type": null,
         "race": "Dragon",
         "class": "Any",
         "manna": 5,
@@ -1399,6 +1526,7 @@
     {
         "name": "Mountain Giant",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 12,
@@ -1410,6 +1538,7 @@
     {
         "name": "Kor'kron Elite",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 4,
@@ -1421,6 +1550,7 @@
     {
         "name": "Jungle Panther",
         "rarity": null,
+        "type": null,
         "race": "Beast",
         "class": "Any",
         "manna": 3,
@@ -1432,6 +1562,7 @@
     {
         "name": "Baron Geddon",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 7,
@@ -1443,6 +1574,7 @@
     {
         "name": "Pit Lord",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 4,
@@ -1454,6 +1586,7 @@
     {
         "name": "Fiery War Axe",
         "rarity": "Basic",
+        "type": "Weapon",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -1465,6 +1598,7 @@
     {
         "name": "Mind Blast",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 2,
@@ -1476,6 +1610,7 @@
     {
         "name": "Timber Wolf",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Hunter",
         "manna": 1,
@@ -1487,6 +1622,7 @@
     {
         "name": "Captain Greenskin",
         "rarity": null,
+        "type": null,
         "race": "Pirate",
         "class": "Any",
         "manna": 5,
@@ -1498,6 +1634,7 @@
     {
         "name": "Elven Archer",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -1509,6 +1646,7 @@
     {
         "name": "Master Swordsmith",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1520,6 +1658,7 @@
     {
         "name": "Grommash Hellscream",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 8,
@@ -1531,6 +1670,7 @@
     {
         "name": "Sea Giant",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 10,
@@ -1542,6 +1682,7 @@
     {
         "name": "Doomguard",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 5,
@@ -1553,6 +1694,7 @@
     {
         "name": "Al'Akir the Windlord",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Shaman",
         "manna": 8,
@@ -1564,6 +1706,7 @@
     {
         "name": "Frothing Berserker",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 3,
@@ -1575,6 +1718,7 @@
     {
         "name": "Power of the Wild",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 2,
@@ -1586,6 +1730,7 @@
     {
         "name": "Hellfire",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 4,
@@ -1597,6 +1742,7 @@
     {
         "name": "Archmage",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -1608,6 +1754,7 @@
     {
         "name": "Reckless Rocketeer",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -1619,6 +1766,7 @@
     {
         "name": "Power Word: Shield",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 1,
@@ -1630,6 +1778,7 @@
     {
         "name": "Arcane Intellect",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -1641,6 +1790,7 @@
     {
         "name": "Nourish",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 5,
@@ -1652,6 +1802,7 @@
     {
         "name": "Angry Chicken",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 1,
@@ -1663,6 +1814,7 @@
     {
         "name": "Mindgames",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 4,
@@ -1674,6 +1826,7 @@
     {
         "name": "Leeroy Jenkins",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -1685,6 +1838,7 @@
     {
         "name": "Gurubashi Berserker",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -1696,6 +1850,7 @@
     {
         "name": "Windspeaker",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Shaman",
         "manna": 4,
@@ -1707,6 +1862,7 @@
     {
         "name": "Force of Nature",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 6,
@@ -1718,6 +1874,7 @@
     {
         "name": "Lightspawn",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 4,
@@ -1729,6 +1886,7 @@
     {
         "name": "Frost Elemental",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -1740,6 +1898,7 @@
     {
         "name": "Thoughtsteal",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 3,
@@ -1751,6 +1910,7 @@
     {
         "name": "Scavenging Hyena",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Beast",
         "class": "Hunter",
         "manna": 2,
@@ -1762,6 +1922,7 @@
     {
         "name": "SI:7 Agent",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Rogue",
         "manna": 3,
@@ -1773,6 +1934,7 @@
     {
         "name": "Prophet Velen",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Priest",
         "manna": 7,
@@ -1784,6 +1946,7 @@
     {
         "name": "Soulfire",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 0,
@@ -1795,6 +1958,7 @@
     {
         "name": "Ogre Magi",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -1806,6 +1970,7 @@
     {
         "name": "Murloc Tidecaller",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 1,
@@ -1817,6 +1982,7 @@
     {
         "name": "Kirin Tor Mage",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -1828,6 +1994,7 @@
     {
         "name": "Thrallmar Farseer",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -1839,6 +2006,7 @@
     {
         "name": "Frostwolf Warlord",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -1850,6 +2018,7 @@
     {
         "name": "Sorcerer's Apprentice",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Mage",
         "manna": 2,
@@ -1861,6 +2030,7 @@
     {
         "name": "Holy Fire",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 6,
@@ -1872,6 +2042,7 @@
     {
         "name": "Mana Wraith",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1883,6 +2054,7 @@
     {
         "name": "Argent Squire",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -1894,6 +2066,7 @@
     {
         "name": "Ancient Watcher",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1905,6 +2078,7 @@
     {
         "name": "Novice Engineer",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -1916,6 +2090,7 @@
     {
         "name": "Stonetusk Boar",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 1,
@@ -1927,6 +2102,7 @@
     {
         "name": "Ancestral Healing",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 0,
@@ -1938,6 +2114,7 @@
     {
         "name": "Conceal",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 1,
@@ -1949,6 +2126,7 @@
     {
         "name": "Arcanite Reaper",
         "rarity": "Basic",
+        "type": "Weapon",
         "race": "None",
         "class": "Warrior",
         "manna": 5,
@@ -1960,6 +2138,7 @@
     {
         "name": "Raging Worgen",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -1971,6 +2150,7 @@
     {
         "name": "Earthen Ring Farseer",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -1982,6 +2162,7 @@
     {
         "name": "Onyxia",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 9,
@@ -1993,6 +2174,7 @@
     {
         "name": "Mana Addict",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -2004,6 +2186,7 @@
     {
         "name": "Shiv",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -2015,6 +2198,7 @@
     {
         "name": "Blood Knight",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2026,6 +2210,7 @@
     {
         "name": "Holy Smite",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 1,
@@ -2037,6 +2222,7 @@
     {
         "name": "Holy Wrath",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 5,
@@ -2048,6 +2234,7 @@
     {
         "name": "Ironforge Rifleman",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2059,6 +2246,7 @@
     {
         "name": "Bluegill Warrior",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 2,
@@ -2070,6 +2258,7 @@
     {
         "name": "Battle Rage",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -2081,6 +2270,7 @@
     {
         "name": "Nightblade",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -2092,6 +2282,7 @@
     {
         "name": "Youthful Brewmaster",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -2103,6 +2294,7 @@
     {
         "name": "The Black Knight",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -2114,6 +2306,7 @@
     {
         "name": "Demonfire",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 2,
@@ -2125,6 +2318,7 @@
     {
         "name": "Redemption",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -2136,6 +2330,7 @@
     {
         "name": "Lord Jaraxxus",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 9,
@@ -2147,6 +2342,7 @@
     {
         "name": "Cold Blood",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 1,
@@ -2158,6 +2354,7 @@
     {
         "name": "Lightwarden",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -2169,6 +2366,7 @@
     {
         "name": "Questing Adventurer",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2180,6 +2378,7 @@
     {
         "name": "Kobold Geomancer",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -2191,6 +2390,7 @@
     {
         "name": "Cenarius",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Druid",
         "manna": 9,
@@ -2202,6 +2402,7 @@
     {
         "name": "Tauren Warrior",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2213,6 +2414,7 @@
     {
         "name": "Explosive Trap",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 2,
@@ -2224,6 +2426,7 @@
     {
         "name": "Hogger",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -2235,6 +2438,7 @@
     {
         "name": "Cult Master",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -2246,6 +2450,7 @@
     {
         "name": "Wild Growth",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 2,
@@ -2257,6 +2462,7 @@
     {
         "name": "Sprint",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 7,
@@ -2268,6 +2474,7 @@
     {
         "name": "Master of Disguise",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Rogue",
         "manna": 4,
@@ -2279,6 +2486,7 @@
     {
         "name": "Druid of the Claw",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Druid",
         "manna": 5,
@@ -2290,6 +2498,7 @@
     {
         "name": "Auchenai Soulpriest",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Priest",
         "manna": 4,
@@ -2301,6 +2510,7 @@
     {
         "name": "Bestial Wrath",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 1,
@@ -2312,6 +2522,7 @@
     {
         "name": "Rockbiter Weapon",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Shaman",
         "manna": 1,
@@ -2323,6 +2534,7 @@
     {
         "name": "Starving Buzzard",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Hunter",
         "manna": 2,
@@ -2334,6 +2546,7 @@
     {
         "name": "Mirror Image",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 1,
@@ -2345,6 +2558,7 @@
     {
         "name": "Corruption",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 1,
@@ -2356,6 +2570,7 @@
     {
         "name": "Preparation",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 0,
@@ -2367,6 +2582,7 @@
     {
         "name": "Cairne Bloodhoof",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -2378,6 +2594,7 @@
     {
         "name": "Mortal Strike",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 4,
@@ -2389,6 +2606,7 @@
     {
         "name": "Flare",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 1,
@@ -2400,6 +2618,7 @@
     {
         "name": "Silver Hand Knight",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -2411,6 +2630,7 @@
     {
         "name": "Guardian of Kings",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Paladin",
         "manna": 7,
@@ -2422,6 +2642,7 @@
     {
         "name": "Ancient Brewmaster",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -2433,6 +2654,7 @@
     {
         "name": "Young Dragonhawk",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 1,
@@ -2444,6 +2666,7 @@
     {
         "name": "Frost Shock",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 1,
@@ -2455,6 +2678,7 @@
     {
         "name": "Healing Touch",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 3,
@@ -2466,6 +2690,7 @@
     {
         "name": "Venture Co. Mercenary",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -2477,6 +2702,7 @@
     {
         "name": "Sacrificial Pact",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 0,
@@ -2488,6 +2714,7 @@
     {
         "name": "Bane of Doom",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 5,
@@ -2499,6 +2726,7 @@
     {
         "name": "Abomination",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -2510,6 +2738,7 @@
     {
         "name": "Flesheating Ghoul",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2521,6 +2750,7 @@
     {
         "name": "Loot Hoarder",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -2532,6 +2762,7 @@
     {
         "name": "Betrayal",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -2543,6 +2774,7 @@
     {
         "name": "The Beast",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 6,
@@ -2554,6 +2786,7 @@
     {
         "name": "Flame Imp",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 1,
@@ -2565,6 +2798,7 @@
     {
         "name": "Freezing Trap",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 2,
@@ -2576,6 +2810,7 @@
     {
         "name": "Southsea Deckhand",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Pirate",
         "class": "Any",
         "manna": 1,
@@ -2587,6 +2822,7 @@
     {
         "name": "Bloodfen Raptor",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 2,
@@ -2598,6 +2834,7 @@
     {
         "name": "Cleave",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -2609,6 +2846,7 @@
     {
         "name": "Fen Creeper",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -2620,6 +2858,7 @@
     {
         "name": "Starfire",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 6,
@@ -2631,6 +2870,7 @@
     {
         "name": "Goldshire Footman",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -2642,6 +2882,7 @@
     {
         "name": "Ragnaros the Firelord",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 8,
@@ -2653,6 +2894,7 @@
     {
         "name": "Rampage",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -2664,6 +2906,7 @@
     {
         "name": "Captain's Parrot",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 2,
@@ -2675,6 +2918,7 @@
     {
         "name": "Windfury Harpy",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -2686,6 +2930,7 @@
     {
         "name": "Stranglethorn Tiger",
         "rarity": null,
+        "type": null,
         "race": "Beast",
         "class": "Any",
         "manna": 5,
@@ -2697,6 +2942,7 @@
     {
         "name": "Circle of Healing",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 0,
@@ -2708,6 +2954,7 @@
     {
         "name": "Snake Trap",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 2,
@@ -2719,6 +2966,7 @@
     {
         "name": "Cabal Shadow Priest",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Priest",
         "manna": 6,
@@ -2730,6 +2978,7 @@
     {
         "name": "Upgrade!",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 1,
@@ -2741,6 +2990,7 @@
     {
         "name": "Shield Slam",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 1,
@@ -2752,6 +3002,7 @@
     {
         "name": "Windfury",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Shaman",
         "manna": 2,
@@ -2763,6 +3014,7 @@
     {
         "name": "Nat Pagle",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -2774,6 +3026,7 @@
     {
         "name": "Houndmaster",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Hunter",
         "manna": 4,
@@ -2785,6 +3038,7 @@
     {
         "name": "Water Elemental",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Mage",
         "manna": 4,
@@ -2796,6 +3050,7 @@
     {
         "name": "Eaglehorn Bow",
         "rarity": "Rare",
+        "type": "Weapon",
         "race": "None",
         "class": "Hunter",
         "manna": 3,
@@ -2807,6 +3062,7 @@
     {
         "name": "Archmage Antonidas",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Mage",
         "manna": 7,
@@ -2818,6 +3074,7 @@
     {
         "name": "Kill Command",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 3,
@@ -2829,6 +3086,7 @@
     {
         "name": "Mana Tide Totem",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Totem",
         "class": "Shaman",
         "manna": 3,
@@ -2840,6 +3098,7 @@
     {
         "name": "Drain Life",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 3,
@@ -2851,6 +3110,7 @@
     {
         "name": "Doomsayer",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -2862,6 +3122,7 @@
     {
         "name": "Darkscale Healer",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -2873,6 +3134,7 @@
     {
         "name": "Shadowform",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 3,
@@ -2884,6 +3146,7 @@
     {
         "name": "Frost Nova",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -2895,6 +3158,7 @@
     {
         "name": "Mirror Entity",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -2906,6 +3170,7 @@
     {
         "name": "Counterspell",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -2917,6 +3182,7 @@
     {
         "name": "Magma Rager",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2928,6 +3194,7 @@
     {
         "name": "Wolfrider",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -2939,6 +3206,7 @@
     {
         "name": "Gelbin Mekkatorque",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -2950,6 +3218,7 @@
     {
         "name": "Inner Rage",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 0,
@@ -2961,6 +3230,7 @@
     {
         "name": "Heroic Strike",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -2972,6 +3242,7 @@
     {
         "name": "Doomhammer",
         "rarity": "Epic",
+        "type": "Weapon",
         "race": "None",
         "class": "Shaman",
         "manna": 5,
@@ -2983,6 +3254,7 @@
     {
         "name": "Tracking",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 1,
@@ -2994,6 +3266,7 @@
     {
         "name": "Fireball",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 4,
@@ -3005,6 +3278,7 @@
     {
         "name": "Booty Bay Bodyguard",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -3016,6 +3290,7 @@
     {
         "name": "Scarlet Crusader",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -3027,6 +3302,7 @@
     {
         "name": "Voodoo Doctor",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -3038,6 +3314,7 @@
     {
         "name": "Shadow Bolt",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 3,
@@ -3049,6 +3326,7 @@
     {
         "name": "Ethereal Arcanist",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Mage",
         "manna": 4,
@@ -3060,6 +3338,7 @@
     {
         "name": "Succubus",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 2,
@@ -3071,6 +3350,7 @@
     {
         "name": "Emperor Cobra",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 3,
@@ -3082,6 +3362,7 @@
     {
         "name": "Deadly Shot",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 3,
@@ -3093,6 +3374,7 @@
     {
         "name": "Claw",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 1,
@@ -3104,6 +3386,7 @@
     {
         "name": "Explosive Shot",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 5,
@@ -3115,6 +3398,7 @@
     {
         "name": "Avenging Wrath",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 6,
@@ -3126,6 +3410,7 @@
     {
         "name": "Argent Protector",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Paladin",
         "manna": 2,
@@ -3137,6 +3422,7 @@
     {
         "name": "Felguard",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 3,
@@ -3148,6 +3434,7 @@
     {
         "name": "Northshire Cleric",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Priest",
         "manna": 1,
@@ -3159,6 +3446,7 @@
     {
         "name": "Leper Gnome",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -3170,6 +3458,7 @@
     {
         "name": "Fire Elemental",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Shaman",
         "manna": 6,
@@ -3181,6 +3470,7 @@
     {
         "name": "Snipe",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 2,
@@ -3192,6 +3482,7 @@
     {
         "name": "Southsea Captain",
         "rarity": null,
+        "type": null,
         "race": "Pirate",
         "class": "Any",
         "manna": 3,
@@ -3203,6 +3494,7 @@
     {
         "name": "Bite",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 4,
@@ -3214,6 +3506,7 @@
     {
         "name": "Defias Ringleader",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -3225,6 +3518,7 @@
     {
         "name": "Harvest Golem",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -3236,6 +3530,7 @@
     {
         "name": "King Krush",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Beast",
         "class": "Hunter",
         "manna": 9,
@@ -3247,6 +3542,7 @@
     {
         "name": "Lorewalker Cho",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -3258,6 +3554,7 @@
     {
         "name": "Hunter's Mark",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Hunter",
         "manna": 0,
@@ -3269,6 +3566,7 @@
     {
         "name": "Dalaran Mage",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -3280,6 +3578,7 @@
     {
         "name": "Twilight Drake",
         "rarity": null,
+        "type": null,
         "race": "Dragon",
         "class": "Any",
         "manna": 4,
@@ -3291,6 +3590,7 @@
     {
         "name": "Coldlight Oracle",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 3,
@@ -3302,6 +3602,7 @@
     {
         "name": "Molten Giant",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 20,
@@ -3313,6 +3614,7 @@
     {
         "name": "Shadowflame",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 4,
@@ -3324,6 +3626,7 @@
     {
         "name": "Argent Commander",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -3335,6 +3638,7 @@
     {
         "name": "Arcane Missiles",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 1,
@@ -3346,6 +3650,7 @@
     {
         "name": "Ancient of War",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Druid",
         "manna": 7,
@@ -3357,6 +3662,7 @@
     {
         "name": "Stormwind Champion",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 7,
@@ -3368,6 +3674,7 @@
     {
         "name": "Swipe",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 4,
@@ -3379,6 +3686,7 @@
     {
         "name": "Hex",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 3,
@@ -3390,6 +3698,7 @@
     {
         "name": "Ysera",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 9,
@@ -3401,6 +3710,7 @@
     {
         "name": "Arcane Golem",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -3412,6 +3722,7 @@
     {
         "name": "Blood Imp",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 1,
@@ -3423,6 +3734,7 @@
     {
         "name": "Pyroblast",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 8,
@@ -3434,6 +3746,7 @@
     {
         "name": "Murloc Raider",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 1,
@@ -3445,6 +3758,7 @@
     {
         "name": "Spellbender",
         "rarity": "Epic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -3456,6 +3770,7 @@
     {
         "name": "Faerie Dragon",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 2,
@@ -3467,6 +3782,7 @@
     {
         "name": "Sinister Strike",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 1,
@@ -3478,6 +3794,7 @@
     {
         "name": "Power Overwhelming",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warlock",
         "manna": 1,
@@ -3489,6 +3806,7 @@
     {
         "name": "Arcane Explosion",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 2,
@@ -3500,6 +3818,7 @@
     {
         "name": "Shadow Word: Pain",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 2,
@@ -3511,6 +3830,7 @@
     {
         "name": "Noble Sacrifice",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -3522,6 +3842,7 @@
     {
         "name": "Dread Infernal",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 6,
@@ -3533,6 +3854,7 @@
     {
         "name": "Naturalize",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 1,
@@ -3544,6 +3866,7 @@
     {
         "name": "Wrath",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 2,
@@ -3555,6 +3878,7 @@
     {
         "name": "Secretkeeper",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 1,
@@ -3566,6 +3890,7 @@
     {
         "name": "Dread Corsair",
         "rarity": null,
+        "type": null,
         "race": "Pirate",
         "class": "Any",
         "manna": 4,
@@ -3577,6 +3902,7 @@
     {
         "name": "Forked Lightning",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 1,
@@ -3588,6 +3914,7 @@
     {
         "name": "Hand of Protection",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -3599,6 +3926,7 @@
     {
         "name": "Vaporize",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -3610,6 +3938,7 @@
     {
         "name": "Nozdormu",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 9,
@@ -3621,6 +3950,7 @@
     {
         "name": "Divine Spirit",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 2,
@@ -3632,6 +3962,7 @@
     {
         "name": "Armorsmith",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -3643,6 +3974,7 @@
     {
         "name": "Murloc Tidehunter",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Murloc",
         "class": "Any",
         "manna": 2,
@@ -3654,6 +3986,7 @@
     {
         "name": "Tundra Rhino",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Beast",
         "class": "Hunter",
         "manna": 5,
@@ -3665,6 +3998,7 @@
     {
         "name": "Summoning Portal",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Warlock",
         "manna": 4,
@@ -3676,6 +4010,7 @@
     {
         "name": "Hammer of Wrath",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 4,
@@ -3687,6 +4022,7 @@
     {
         "name": "Stormwind Knight",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -3698,6 +4034,7 @@
     {
         "name": "Mad Bomber",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -3709,6 +4046,7 @@
     {
         "name": "Consecration",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 4,
@@ -3720,6 +4058,7 @@
     {
         "name": "Knife Juggler",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -3731,6 +4070,7 @@
     {
         "name": "Ice Barrier",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 3,
@@ -3742,6 +4082,7 @@
     {
         "name": "Light's Justice",
         "rarity": "Basic",
+        "type": "Weapon",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -3753,6 +4094,7 @@
     {
         "name": "Lava Burst",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 3,
@@ -3764,6 +4106,7 @@
     {
         "name": "Mind Control Tech",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -3775,6 +4118,7 @@
     {
         "name": "Boulderfist Ogre",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -3786,6 +4130,7 @@
     {
         "name": "Priestess of Elune",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -3797,6 +4142,7 @@
     {
         "name": "Ancient Mage",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 4,
@@ -3808,6 +4154,7 @@
     {
         "name": "Mark of Nature",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 3,
@@ -3819,6 +4166,7 @@
     {
         "name": "Shadow Word: Death",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 3,
@@ -3830,6 +4178,7 @@
     {
         "name": "Ironbeak Owl",
         "rarity": "Common",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 2,
@@ -3841,6 +4190,7 @@
     {
         "name": "Eviscerate",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Rogue",
         "manna": 2,
@@ -3852,6 +4202,7 @@
     {
         "name": "Repentance",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 1,
@@ -3863,6 +4214,7 @@
     {
         "name": "Sunwalker",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 6,
@@ -3874,6 +4226,7 @@
     {
         "name": "Slam",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 2,
@@ -3885,6 +4238,7 @@
     {
         "name": "Sword of Justice",
         "rarity": "Epic",
+        "type": "Weapon",
         "race": "None",
         "class": "Paladin",
         "manna": 3,
@@ -3896,6 +4250,7 @@
     {
         "name": "Whirlwind",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Warrior",
         "manna": 1,
@@ -3907,6 +4262,7 @@
     {
         "name": "Illidan Stormrage",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Demon",
         "class": "Any",
         "manna": 6,
@@ -3918,6 +4274,7 @@
     {
         "name": "Alexstrasza",
         "rarity": null,
+        "type": null,
         "race": "Dragon",
         "class": "Any",
         "manna": 9,
@@ -3929,6 +4286,7 @@
     {
         "name": "Silence",
         "rarity": "Common",
+        "type": "Spell",
         "race": "None",
         "class": "Priest",
         "manna": 0,
@@ -3940,6 +4298,7 @@
     {
         "name": "Voidwalker",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Demon",
         "class": "Warlock",
         "manna": 1,
@@ -3951,6 +4310,7 @@
     {
         "name": "Flamestrike",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Mage",
         "manna": 7,
@@ -3962,6 +4322,7 @@
     {
         "name": "River Crocolisk",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 2,
@@ -3973,6 +4334,7 @@
     {
         "name": "Stormforged Axe",
         "rarity": "Common",
+        "type": "Weapon",
         "race": "None",
         "class": "Shaman",
         "manna": 2,
@@ -3984,6 +4346,7 @@
     {
         "name": "Temple Enforcer",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Priest",
         "manna": 6,
@@ -3995,6 +4358,7 @@
     {
         "name": "Imp Master",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -4006,6 +4370,7 @@
     {
         "name": "Savage Roar",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 3,
@@ -4017,6 +4382,7 @@
     {
         "name": "Innervate",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Druid",
         "manna": 0,
@@ -4028,6 +4394,7 @@
     {
         "name": "Earth Elemental",
         "rarity": "Epic",
+        "type": "Minion",
         "race": "None",
         "class": "Shaman",
         "manna": 5,
@@ -4039,6 +4406,7 @@
     {
         "name": "Faceless Manipulator",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -4050,6 +4418,7 @@
     {
         "name": "Divine Favor",
         "rarity": "Rare",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 3,
@@ -4061,6 +4430,7 @@
     {
         "name": "Demolisher",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -4072,6 +4442,7 @@
     {
         "name": "Sunfury Protector",
         "rarity": "Rare",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -4083,6 +4454,7 @@
     {
         "name": "Dust Devil",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Shaman",
         "manna": 1,
@@ -4094,6 +4466,7 @@
     {
         "name": "Holy Light",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Paladin",
         "manna": 2,
@@ -4105,6 +4478,7 @@
     {
         "name": "Feral Spirit",
         "rarity": "Basic",
+        "type": "Spell",
         "race": "None",
         "class": "Shaman",
         "manna": 3,
@@ -4116,6 +4490,7 @@
     {
         "name": "Raid Leader",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 3,
@@ -4127,6 +4502,7 @@
     {
         "name": "Amani Berserker",
         "rarity": "Common",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 2,
@@ -4138,6 +4514,7 @@
     {
         "name": "Ironbark Protector",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Druid",
         "manna": 8,
@@ -4149,6 +4526,7 @@
     {
         "name": "Deathwing",
         "rarity": "Legendary",
+        "type": "Minion",
         "race": "Dragon",
         "class": "Any",
         "manna": 10,
@@ -4160,6 +4538,7 @@
     {
         "name": "Stormpike Commando",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "None",
         "class": "Any",
         "manna": 5,
@@ -4171,6 +4550,7 @@
     {
         "name": "Silverback Patriarch",
         "rarity": "Basic",
+        "type": "Minion",
         "race": "Beast",
         "class": "Any",
         "manna": 3,
@@ -4182,6 +4562,7 @@
     {
         "name": "Gladiator's Longbow",
         "rarity": "Epic",
+        "type": "Weapon",
         "race": "None",
         "class": "Hunter",
         "manna": 7,
@@ -4193,6 +4574,7 @@
     {
         "name": "Elite Tauren Chieftain",
         "rarity": null,
+        "type": null,
         "race": "None",
         "class": "Any",
         "manna": 5,
