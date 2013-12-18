@@ -1,7 +1,6 @@
 [
     {
         "name": "Edwin VanCleef",
-        "class": "Rogue",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -13,7 +12,6 @@
     },
     {
         "name": "Perdition's Blade",
-        "class": "Rogue",
         "rarity": "Rare",
         "type": "Weapon",
         "race": "",
@@ -25,7 +23,6 @@
     },
     {
         "name": "Bloodsail Raider",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "Pirate",
@@ -37,7 +34,6 @@
     },
     {
         "name": "Bloodmage Thalnos",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -49,7 +45,6 @@
     },
     {
         "name": "Wisp",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -60,8 +55,40 @@
         "image": "CS2_231"
     },
     {
+        "name": "Sen'jin Shieldmasta",
+        "rarity": "Basic",
+        "type": "Minion",
+        "race": "",
+        "manna": 4,
+        "attack": 3,
+        "health": 5,
+        "descr": "Taunt",
+        "image": "CS2_179"
+    },
+    {
+        "name": "Totemic Might",
+        "rarity": null,
+        "type": null,
+        "race": "Shaman",
+        "manna": 0,
+        "attack": null,
+        "health": null,
+        "descr": "Give your Totems +2 Health.",
+        "image": "EX1_244"
+    },
+    {
+        "name": "Dragonling Mechanic",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 2,
+        "health": 4,
+        "descr": "Battlecry: Summon a 2\/1 Mechanical Dragonling.",
+        "image": "EX1_025"
+    },
+    {
         "name": "Mogu'shan Warden",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -72,8 +99,18 @@
         "image": "EX1_396"
     },
     {
+        "name": "Hungry Crab",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 1,
+        "attack": 1,
+        "health": 2,
+        "descr": "Battlecry: Destroy a Murloc and gain +2\/+2.",
+        "image": "NEW1_017"
+    },
+    {
         "name": "Misdirection",
-        "class": "Hunter",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -85,7 +122,6 @@
     },
     {
         "name": "Patient Assassin",
-        "class": "Rogue",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -96,8 +132,18 @@
         "image": "EX1_522"
     },
     {
+        "name": "Violet Teacher",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 3,
+        "health": 5,
+        "descr": "Whenever you cast a spell, summon a 1\/1 Violet Apprentice.",
+        "image": "NEW1_026"
+    },
+    {
         "name": "Arathi Weaponsmith",
-        "class": "Warrior",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -109,7 +155,6 @@
     },
     {
         "name": "Acolyte of Pain",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -121,7 +166,6 @@
     },
     {
         "name": "Holy Nova",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -133,7 +177,6 @@
     },
     {
         "name": "Commanding Shout",
-        "class": "Warrior",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -145,7 +188,6 @@
     },
     {
         "name": "Unbound Elemental",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -156,8 +198,18 @@
         "image": "EX1_258"
     },
     {
+        "name": "Blessing of Might",
+        "rarity": null,
+        "type": null,
+        "race": "Paladin",
+        "manna": 1,
+        "attack": null,
+        "health": null,
+        "descr": "Give a minion +3 Attack.",
+        "image": "CS2_087"
+    },
+    {
         "name": "Blessing of Kings",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -169,7 +221,6 @@
     },
     {
         "name": "Polymorph",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -181,7 +232,6 @@
     },
     {
         "name": "Dark Iron Dwarf",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -193,7 +243,6 @@
     },
     {
         "name": "Charge",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -204,8 +253,18 @@
         "image": "CS2_103"
     },
     {
+        "name": "Stampeding Kodo",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 3,
+        "health": 5,
+        "descr": "Battlecry: Destroy a random enemy minion with 2 or less Attack.",
+        "image": "NEW1_041"
+    },
+    {
         "name": "Humility",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -216,8 +275,18 @@
         "image": "EX1_360"
     },
     {
+        "name": "Gruul",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 8,
+        "attack": 7,
+        "health": 7,
+        "descr": "At the end of each turn, gain +1\/+1 .",
+        "image": "NEW1_038"
+    },
+    {
         "name": "Mark of the Wild",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -229,7 +298,6 @@
     },
     {
         "name": "Worgen Infiltrator",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -241,7 +309,6 @@
     },
     {
         "name": "Frostbolt",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -253,7 +320,6 @@
     },
     {
         "name": "Flametongue Totem",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -265,7 +331,6 @@
     },
     {
         "name": "Assassinate",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -277,7 +342,6 @@
     },
     {
         "name": "Lord of the Arena",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -288,8 +352,18 @@
         "image": "CS2_162"
     },
     {
+        "name": "Injured Blademaster",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 4,
+        "health": 7,
+        "descr": "Battlecry: Deal 4 damage to HIMSELF.",
+        "image": "CS2_181"
+    },
+    {
         "name": "Siphon Soul",
-        "class": "Warlock",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -301,7 +375,6 @@
     },
     {
         "name": "Lay on Hands",
-        "class": "Paladin",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -312,8 +385,18 @@
         "image": "EX1_354"
     },
     {
+        "name": "Silvermoon Guardian",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 3,
+        "health": 3,
+        "descr": "Divine Shield",
+        "image": "EX1_023"
+    },
+    {
         "name": "Mind Vision",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -325,7 +408,6 @@
     },
     {
         "name": "Core Hound",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -337,7 +419,6 @@
     },
     {
         "name": "Grimscale Oracle",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Murloc",
@@ -349,7 +430,6 @@
     },
     {
         "name": "Lightning Storm",
-        "class": "Shaman",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -361,7 +441,6 @@
     },
     {
         "name": "Lightwell",
-        "class": "Priest",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -373,7 +452,6 @@
     },
     {
         "name": "Coldlight Seer",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Murloc",
@@ -385,7 +463,6 @@
     },
     {
         "name": "Gorehowl",
-        "class": "Warrior",
         "rarity": "Epic",
         "type": "Weapon",
         "race": "",
@@ -396,8 +473,18 @@
         "image": "EX1_411"
     },
     {
+        "name": "Far Sight",
+        "rarity": null,
+        "type": null,
+        "race": "Shaman",
+        "manna": 3,
+        "attack": null,
+        "health": null,
+        "descr": "Draw a card. That card costs (3) less.",
+        "image": "CS2_053"
+    },
+    {
         "name": "Chillwind Yeti",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -409,7 +496,6 @@
     },
     {
         "name": "Moonfire",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -421,7 +507,6 @@
     },
     {
         "name": "Blade Flurry",
-        "class": "Rogue",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -433,7 +518,6 @@
     },
     {
         "name": "Mass Dispel",
-        "class": "Priest",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -445,7 +529,6 @@
     },
     {
         "name": "Crazed Alchemist",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -456,8 +539,18 @@
         "image": "EX1_059"
     },
     {
+        "name": "Shadow Madness",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 4,
+        "attack": null,
+        "health": null,
+        "descr": "Gain control of an enemy minion with 3 or less Attack until end of turn.",
+        "image": "EX1_334"
+    },
+    {
         "name": "Equality",
-        "class": "Paladin",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -468,8 +561,18 @@
         "image": "EX1_619"
     },
     {
+        "name": "Alarm-o-Bot",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 0,
+        "health": 3,
+        "descr": "At the start of your turn, swap this minion with a random one in your hand.",
+        "image": "EX1_006"
+    },
+    {
         "name": "Animal Companion",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -480,8 +583,18 @@
         "image": "NEW1_031"
     },
     {
+        "name": "Young Priestess",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 1,
+        "attack": 2,
+        "health": 1,
+        "descr": "At the end of your turn, give another random friendly minion +1 Health.",
+        "image": "EX1_004"
+    },
+    {
         "name": "Gadgetzan Auctioneer",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -493,7 +606,6 @@
     },
     {
         "name": "Starfall",
-        "class": "Druid",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -505,7 +617,6 @@
     },
     {
         "name": "Cone of Cold",
-        "class": "Mage",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -516,8 +627,18 @@
         "image": "EX1_275"
     },
     {
+        "name": "Earth Shock",
+        "rarity": null,
+        "type": null,
+        "race": "Shaman",
+        "manna": 1,
+        "attack": null,
+        "health": null,
+        "descr": "Silence a minion, then deal 1 damage to it.",
+        "image": "EX1_245"
+    },
+    {
         "name": "Tirion Fordring",
-        "class": "Paladin",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -528,8 +649,18 @@
         "image": "EX1_383"
     },
     {
+        "name": "Ironfur Grizzly",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 3,
+        "health": 3,
+        "descr": "Taunt",
+        "image": "CS2_125"
+    },
+    {
         "name": "Headcrack",
-        "class": "Rogue",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -541,7 +672,6 @@
     },
     {
         "name": "Arcane Shot",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -553,7 +683,6 @@
     },
     {
         "name": "Void Terror",
-        "class": "Warlock",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Demon",
@@ -565,7 +694,6 @@
     },
     {
         "name": "Mortal Coil",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -577,7 +705,6 @@
     },
     {
         "name": "Execute",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -589,7 +716,6 @@
     },
     {
         "name": "Bloodlust",
-        "class": "Shaman",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -601,7 +727,6 @@
     },
     {
         "name": "Kidnapper",
-        "class": "Rogue",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -612,8 +737,18 @@
         "image": "NEW1_005"
     },
     {
+        "name": "Old Murk-Eye",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 2,
+        "health": 4,
+        "descr": "Charge. Has +1 Attack for each other Murloc on the battlefield.",
+        "image": "EX1_062"
+    },
+    {
         "name": "Backstab",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -624,8 +759,18 @@
         "image": "CS2_072"
     },
     {
+        "name": "Murloc Warleader",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 3,
+        "health": 3,
+        "descr": "ALL other Murlocs have +2\/+1.",
+        "image": "EX1_507"
+    },
+    {
         "name": "Shadowstep",
-        "class": "Rogue",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -637,7 +782,6 @@
     },
     {
         "name": "Ancestral Spirit",
-        "class": "Shaman",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -649,7 +793,6 @@
     },
     {
         "name": "Defender of Argus",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -661,7 +804,6 @@
     },
     {
         "name": "Assassin's Blade",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Weapon",
         "race": "",
@@ -673,7 +815,6 @@
     },
     {
         "name": "Big Game Hunter",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -685,7 +826,6 @@
     },
     {
         "name": "Aldor Peacekeeper",
-        "class": "Paladin",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -697,7 +837,6 @@
     },
     {
         "name": "Blizzard",
-        "class": "Mage",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -709,7 +848,6 @@
     },
     {
         "name": "Unleash the Hounds",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -721,7 +859,6 @@
     },
     {
         "name": "Sap",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -732,8 +869,18 @@
         "image": "EX1_581"
     },
     {
+        "name": "Gnomish Inventor",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 2,
+        "health": 4,
+        "descr": "Battlecry: Draw a card.",
+        "image": "CS2_147"
+    },
+    {
         "name": "Mind Control",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -744,8 +891,18 @@
         "image": "CS1_113"
     },
     {
+        "name": "Ravenholdt Assassin",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 7,
+        "attack": 7,
+        "health": 5,
+        "descr": "Stealth",
+        "image": "CS2_161"
+    },
+    {
         "name": "Ice Lance",
-        "class": "Mage",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -756,8 +913,18 @@
         "image": "CS2_031"
     },
     {
+        "name": "Acidic Swamp Ooze",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 2,
+        "attack": 3,
+        "health": 2,
+        "descr": "Battlecry: Destroy your opponent's weapon.",
+        "image": "EX1_066"
+    },
+    {
         "name": "Blessed Champion",
-        "class": "Paladin",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -769,7 +936,6 @@
     },
     {
         "name": "Savannah Highmane",
-        "class": "Hunter",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Beast",
@@ -781,7 +947,6 @@
     },
     {
         "name": "Dire Wolf Alpha",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "Beast",
@@ -793,7 +958,6 @@
     },
     {
         "name": "Blessing of Wisdom",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -804,8 +968,29 @@
         "image": "EX1_363"
     },
     {
+        "name": "Abusive Sergeant",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 1,
+        "attack": 2,
+        "health": 1,
+        "descr": "Battlecry: Give a friendly minion +2 Attack this turn.",
+        "image": "CS2_188"
+    },
+    {
+        "name": "Sylvanas Windrunner",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 5,
+        "health": 5,
+        "descr": "Deathrattle: Take control of a random enemy minion.",
+        "image": "EX1_016"
+    },
+    {
         "name": "Cruel Taskmaster",
-        "class": "Warrior",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -817,7 +1002,6 @@
     },
     {
         "name": "Lightning Bolt",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -829,7 +1013,6 @@
     },
     {
         "name": "Keeper of the Grove",
-        "class": "Druid",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -841,7 +1024,6 @@
     },
     {
         "name": "Multi-Shot",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -852,8 +1034,18 @@
         "image": "DS1_183"
     },
     {
+        "name": "Pint-Sized Summoner",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 2,
+        "attack": 2,
+        "health": 2,
+        "descr": "The first minion you play each turn costs (1) less.",
+        "image": "EX1_076"
+    },
+    {
         "name": "Spellbreaker",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -865,7 +1057,6 @@
     },
     {
         "name": "Deadly Poison",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -877,7 +1068,6 @@
     },
     {
         "name": "Fan of Knives",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -889,7 +1079,6 @@
     },
     {
         "name": "Shieldbearer",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -901,7 +1090,6 @@
     },
     {
         "name": "Sense Demons",
-        "class": "Warlock",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -913,7 +1101,6 @@
     },
     {
         "name": "Shield Block",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -925,7 +1112,6 @@
     },
     {
         "name": "Ancient of Lore",
-        "class": "Druid",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -937,7 +1123,6 @@
     },
     {
         "name": "Oasis Snapjaw",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -949,7 +1134,6 @@
     },
     {
         "name": "Frostwolf Grunt",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -961,7 +1145,6 @@
     },
     {
         "name": "Wild Pyromancer",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -973,7 +1156,6 @@
     },
     {
         "name": "Razorfen Hunter",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -985,7 +1167,6 @@
     },
     {
         "name": "Twisting Nether",
-        "class": "Warlock",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -997,7 +1178,6 @@
     },
     {
         "name": "Malygos",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Dragon",
@@ -1009,7 +1189,6 @@
     },
     {
         "name": "Millhouse Manastorm",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1020,8 +1199,51 @@
         "image": "NEW1_029"
     },
     {
+        "name": "Inner Fire",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 1,
+        "attack": null,
+        "health": null,
+        "descr": "Change a minion's Attack to be equal to its Health.",
+        "image": "CS1_129"
+    },
+    {
+        "name": "Soul of the Forest",
+        "rarity": null,
+        "type": null,
+        "race": "Druid",
+        "manna": 4,
+        "attack": null,
+        "health": null,
+        "descr": "Give your minions \"Deathrattle: Summon a 2\/2 Treant.\"",
+        "image": "EX1_158"
+    },
+    {
+        "name": "Bloodsail Corsair",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 1,
+        "attack": 1,
+        "health": 2,
+        "descr": "Battlecry: Remove 1 Durability from your opponent's weapon.",
+        "image": "NEW1_025"
+    },
+    {
+        "name": "Tinkmaster Overspark",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 2,
+        "health": 2,
+        "descr": "Battlecry: Transform a minion into a 5\/5 Devilsaur or a 1\/1 Squirrel at random.",
+        "image": "EX1_083"
+    },
+    {
         "name": "Ice Block",
-        "class": "Mage",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -1033,7 +1255,6 @@
     },
     {
         "name": "Brawl",
-        "class": "Warrior",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -1045,7 +1266,6 @@
     },
     {
         "name": "Vanish",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1056,8 +1276,18 @@
         "image": "NEW1_004"
     },
     {
+        "name": "King Mukla",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 5,
+        "health": 5,
+        "descr": "Battlecry: Give your opponent 2 Bananas.",
+        "image": "EX1_014"
+    },
+    {
         "name": "Truesilver Champion",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Weapon",
         "race": "",
@@ -1068,8 +1298,18 @@
         "image": "CS2_097"
     },
     {
+        "name": "Harrison Jones",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 5,
+        "health": 4,
+        "descr": "Battlecry: Destroy your opponent's weapon and draw cards equal to its Durability.",
+        "image": "EX1_558"
+    },
+    {
         "name": "War Golem",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1081,7 +1321,6 @@
     },
     {
         "name": "Warsong Commander",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1093,7 +1332,6 @@
     },
     {
         "name": "Mana Wyrm",
-        "class": "Mage",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1105,7 +1343,6 @@
     },
     {
         "name": "Savagery",
-        "class": "Druid",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -1116,8 +1353,18 @@
         "image": "EX1_578"
     },
     {
+        "name": "Spiteful Smith",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 4,
+        "health": 6,
+        "descr": "Enrage: Your weapon has +2 Attack.",
+        "image": "CS2_221"
+    },
+    {
         "name": "Shattered Sun Cleric",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1129,7 +1376,6 @@
     },
     {
         "name": "Eye for an Eye",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1140,8 +1386,18 @@
         "image": "EX1_132"
     },
     {
+        "name": "Azure Drake",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 4,
+        "health": 4,
+        "descr": "Spell Damage +1. Battlecry: Draw a card.",
+        "image": "EX1_284"
+    },
+    {
         "name": "Mountain Giant",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -1153,7 +1409,6 @@
     },
     {
         "name": "Kor'kron Elite",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1164,8 +1419,18 @@
         "image": "NEW1_011"
     },
     {
+        "name": "Jungle Panther",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 4,
+        "health": 2,
+        "descr": "Stealth",
+        "image": "EX1_017"
+    },
+    {
         "name": "Baron Geddon",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1177,7 +1442,6 @@
     },
     {
         "name": "Pit Lord",
-        "class": "Warlock",
         "rarity": "Epic",
         "type": "Minion",
         "race": "Demon",
@@ -1189,7 +1453,6 @@
     },
     {
         "name": "Fiery War Axe",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Weapon",
         "race": "",
@@ -1201,7 +1464,6 @@
     },
     {
         "name": "Mind Blast",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1213,7 +1475,6 @@
     },
     {
         "name": "Timber Wolf",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -1224,8 +1485,18 @@
         "image": "DS1_175"
     },
     {
+        "name": "Captain Greenskin",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 5,
+        "health": 4,
+        "descr": "Battlecry: Give your weapon +1\/+1.",
+        "image": "NEW1_024"
+    },
+    {
         "name": "Elven Archer",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1237,7 +1508,6 @@
     },
     {
         "name": "Master Swordsmith",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1249,7 +1519,6 @@
     },
     {
         "name": "Grommash Hellscream",
-        "class": "Warrior",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1261,7 +1530,6 @@
     },
     {
         "name": "Sea Giant",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -1273,7 +1541,6 @@
     },
     {
         "name": "Doomguard",
-        "class": "Warlock",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Demon",
@@ -1285,7 +1552,6 @@
     },
     {
         "name": "Al'Akir the Windlord",
-        "class": "Shaman",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1297,7 +1563,6 @@
     },
     {
         "name": "Frothing Berserker",
-        "class": "Warrior",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1309,7 +1574,6 @@
     },
     {
         "name": "Power of the Wild",
-        "class": "Druid",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1321,7 +1585,6 @@
     },
     {
         "name": "Hellfire",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1332,8 +1595,18 @@
         "image": "CS2_062"
     },
     {
+        "name": "Archmage",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 6,
+        "attack": 4,
+        "health": 7,
+        "descr": "Spell Damage +1",
+        "image": "CS2_155"
+    },
+    {
         "name": "Reckless Rocketeer",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1345,7 +1618,6 @@
     },
     {
         "name": "Power Word: Shield",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1357,7 +1629,6 @@
     },
     {
         "name": "Arcane Intellect",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1369,7 +1640,6 @@
     },
     {
         "name": "Nourish",
-        "class": "Druid",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -1381,7 +1651,6 @@
     },
     {
         "name": "Angry Chicken",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1393,7 +1662,6 @@
     },
     {
         "name": "Mindgames",
-        "class": "Priest",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -1404,8 +1672,29 @@
         "image": "EX1_345"
     },
     {
+        "name": "Leeroy Jenkins",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 6,
+        "health": 2,
+        "descr": "Charge. Battlecry: Summon two 1\/1 Whelps for your opponent.",
+        "image": "EX1_116"
+    },
+    {
+        "name": "Gurubashi Berserker",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 2,
+        "health": 7,
+        "descr": "Whenever this minion takes damage, gain +3 Attack.",
+        "image": "EX1_399"
+    },
+    {
         "name": "Windspeaker",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1417,7 +1706,6 @@
     },
     {
         "name": "Force of Nature",
-        "class": "Druid",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -1428,8 +1716,29 @@
         "image": "EX1_571"
     },
     {
+        "name": "Lightspawn",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 4,
+        "attack": 0,
+        "health": 5,
+        "descr": "This minion's Attack is always equal to its Health.",
+        "image": "EX1_335"
+    },
+    {
+        "name": "Frost Elemental",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 6,
+        "attack": 5,
+        "health": 5,
+        "descr": "Battlecry: Freeze a character.",
+        "image": "EX1_283"
+    },
+    {
         "name": "Thoughtsteal",
-        "class": "Priest",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1441,7 +1750,6 @@
     },
     {
         "name": "Scavenging Hyena",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Minion",
         "race": "Beast",
@@ -1452,8 +1760,18 @@
         "image": "EX1_531"
     },
     {
+        "name": "SI:7 Agent",
+        "rarity": null,
+        "type": null,
+        "race": "Rogue",
+        "manna": 3,
+        "attack": 3,
+        "health": 3,
+        "descr": "Combo: Deal 2 damage.",
+        "image": "EX1_134"
+    },
+    {
         "name": "Prophet Velen",
-        "class": "Priest",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1465,7 +1783,6 @@
     },
     {
         "name": "Soulfire",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1476,8 +1793,18 @@
         "image": "EX1_308"
     },
     {
+        "name": "Ogre Magi",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 4,
+        "health": 4,
+        "descr": "Spell Damage +1",
+        "image": "CS2_197"
+    },
+    {
         "name": "Murloc Tidecaller",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Murloc",
@@ -1489,7 +1816,6 @@
     },
     {
         "name": "Kirin Tor Mage",
-        "class": "Mage",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1500,8 +1826,29 @@
         "image": "EX1_612"
     },
     {
+        "name": "Thrallmar Farseer",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 2,
+        "health": 3,
+        "descr": "Windfury",
+        "image": "EX1_021"
+    },
+    {
+        "name": "Frostwolf Warlord",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 4,
+        "health": 4,
+        "descr": "Battlecry: Gain +1\/+1 for each other friendly minion on the battlefield.",
+        "image": "CS2_226"
+    },
+    {
         "name": "Sorcerer's Apprentice",
-        "class": "Mage",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1512,8 +1859,18 @@
         "image": "EX1_608"
     },
     {
+        "name": "Holy Fire",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 6,
+        "attack": null,
+        "health": null,
+        "descr": "Deal 5 damage.  Restore 5 Health to your hero.",
+        "image": "EX1_624"
+    },
+    {
         "name": "Mana Wraith",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1525,7 +1882,6 @@
     },
     {
         "name": "Argent Squire",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1537,7 +1893,6 @@
     },
     {
         "name": "Ancient Watcher",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1549,7 +1904,6 @@
     },
     {
         "name": "Novice Engineer",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1561,7 +1915,6 @@
     },
     {
         "name": "Stonetusk Boar",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -1573,7 +1926,6 @@
     },
     {
         "name": "Ancestral Healing",
-        "class": "Shaman",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1585,7 +1937,6 @@
     },
     {
         "name": "Conceal",
-        "class": "Rogue",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1597,7 +1948,6 @@
     },
     {
         "name": "Arcanite Reaper",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Weapon",
         "race": "",
@@ -1608,8 +1958,18 @@
         "image": "CS2_112"
     },
     {
+        "name": "Raging Worgen",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 3,
+        "health": 3,
+        "descr": "Enrage: Windfury and +1 Attack",
+        "image": "EX1_412"
+    },
+    {
         "name": "Earthen Ring Farseer",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1621,7 +1981,6 @@
     },
     {
         "name": "Onyxia",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Dragon",
@@ -1633,7 +1992,6 @@
     },
     {
         "name": "Mana Addict",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1645,7 +2003,6 @@
     },
     {
         "name": "Shiv",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1657,7 +2014,6 @@
     },
     {
         "name": "Blood Knight",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -1669,7 +2025,6 @@
     },
     {
         "name": "Holy Smite",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1681,7 +2036,6 @@
     },
     {
         "name": "Holy Wrath",
-        "class": "Paladin",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -1693,7 +2047,6 @@
     },
     {
         "name": "Ironforge Rifleman",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1705,7 +2058,6 @@
     },
     {
         "name": "Bluegill Warrior",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Murloc",
@@ -1717,7 +2069,6 @@
     },
     {
         "name": "Battle Rage",
-        "class": "Warrior",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1729,7 +2080,6 @@
     },
     {
         "name": "Nightblade",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1741,7 +2091,6 @@
     },
     {
         "name": "Youthful Brewmaster",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1753,7 +2102,6 @@
     },
     {
         "name": "The Black Knight",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1765,7 +2113,6 @@
     },
     {
         "name": "Demonfire",
-        "class": "Warlock",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1777,7 +2124,6 @@
     },
     {
         "name": "Redemption",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1789,7 +2135,6 @@
     },
     {
         "name": "Lord Jaraxxus",
-        "class": "Warlock",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Demon",
@@ -1801,7 +2146,6 @@
     },
     {
         "name": "Cold Blood",
-        "class": "Rogue",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1813,7 +2157,6 @@
     },
     {
         "name": "Lightwarden",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1824,8 +2167,18 @@
         "image": "EX1_001"
     },
     {
+        "name": "Questing Adventurer",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 2,
+        "health": 2,
+        "descr": "Whenever you play a card, gain +1\/+1.",
+        "image": "EX1_044"
+    },
+    {
         "name": "Kobold Geomancer",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -1837,7 +2190,6 @@
     },
     {
         "name": "Cenarius",
-        "class": "Druid",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1849,7 +2201,6 @@
     },
     {
         "name": "Tauren Warrior",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1861,7 +2212,6 @@
     },
     {
         "name": "Explosive Trap",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -1873,7 +2223,6 @@
     },
     {
         "name": "Hogger",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -1885,7 +2234,6 @@
     },
     {
         "name": "Cult Master",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1897,7 +2245,6 @@
     },
     {
         "name": "Wild Growth",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1909,7 +2256,6 @@
     },
     {
         "name": "Sprint",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1921,7 +2267,6 @@
     },
     {
         "name": "Master of Disguise",
-        "class": "Rogue",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1933,7 +2278,6 @@
     },
     {
         "name": "Druid of the Claw",
-        "class": "Druid",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -1945,7 +2289,6 @@
     },
     {
         "name": "Auchenai Soulpriest",
-        "class": "Priest",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -1957,7 +2300,6 @@
     },
     {
         "name": "Bestial Wrath",
-        "class": "Hunter",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -1968,8 +2310,18 @@
         "image": "EX1_549"
     },
     {
+        "name": "Rockbiter Weapon",
+        "rarity": null,
+        "type": null,
+        "race": "Shaman",
+        "manna": 1,
+        "attack": null,
+        "health": null,
+        "descr": "Give a friendly character +3 Attack this turn.",
+        "image": "CS2_045"
+    },
+    {
         "name": "Starving Buzzard",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -1981,7 +2333,6 @@
     },
     {
         "name": "Mirror Image",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -1993,7 +2344,6 @@
     },
     {
         "name": "Corruption",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2005,7 +2355,6 @@
     },
     {
         "name": "Preparation",
-        "class": "Rogue",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -2017,7 +2366,6 @@
     },
     {
         "name": "Cairne Bloodhoof",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -2029,7 +2377,6 @@
     },
     {
         "name": "Mortal Strike",
-        "class": "Warrior",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2041,7 +2388,6 @@
     },
     {
         "name": "Flare",
-        "class": "Hunter",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2053,7 +2399,6 @@
     },
     {
         "name": "Silver Hand Knight",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2065,7 +2410,6 @@
     },
     {
         "name": "Guardian of Kings",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2077,7 +2421,6 @@
     },
     {
         "name": "Ancient Brewmaster",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2089,7 +2432,6 @@
     },
     {
         "name": "Young Dragonhawk",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "Beast",
@@ -2101,7 +2443,6 @@
     },
     {
         "name": "Frost Shock",
-        "class": "Shaman",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2113,7 +2454,6 @@
     },
     {
         "name": "Healing Touch",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2124,8 +2464,18 @@
         "image": "CS2_007"
     },
     {
+        "name": "Venture Co. Mercenary",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 7,
+        "health": 6,
+        "descr": "Your minions cost (3) more.",
+        "image": "CS2_227"
+    },
+    {
         "name": "Sacrificial Pact",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2137,7 +2487,6 @@
     },
     {
         "name": "Bane of Doom",
-        "class": "Warlock",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -2149,7 +2498,6 @@
     },
     {
         "name": "Abomination",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -2161,7 +2509,6 @@
     },
     {
         "name": "Flesheating Ghoul",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -2173,7 +2520,6 @@
     },
     {
         "name": "Loot Hoarder",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2185,7 +2531,6 @@
     },
     {
         "name": "Betrayal",
-        "class": "Rogue",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2197,7 +2542,6 @@
     },
     {
         "name": "The Beast",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Beast",
@@ -2209,7 +2553,6 @@
     },
     {
         "name": "Flame Imp",
-        "class": "Warlock",
         "rarity": "Common",
         "type": "Minion",
         "race": "Demon",
@@ -2221,7 +2564,6 @@
     },
     {
         "name": "Freezing Trap",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2233,7 +2575,6 @@
     },
     {
         "name": "Southsea Deckhand",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "Pirate",
@@ -2245,7 +2586,6 @@
     },
     {
         "name": "Bloodfen Raptor",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -2257,7 +2597,6 @@
     },
     {
         "name": "Cleave",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2268,8 +2607,18 @@
         "image": "CS2_114"
     },
     {
+        "name": "Fen Creeper",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 3,
+        "health": 6,
+        "descr": "Taunt",
+        "image": "CS1_069"
+    },
+    {
         "name": "Starfire",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2281,7 +2630,6 @@
     },
     {
         "name": "Goldshire Footman",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2293,7 +2641,6 @@
     },
     {
         "name": "Ragnaros the Firelord",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -2305,7 +2652,6 @@
     },
     {
         "name": "Rampage",
-        "class": "Warrior",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2317,7 +2663,6 @@
     },
     {
         "name": "Captain's Parrot",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "Beast",
@@ -2329,7 +2674,6 @@
     },
     {
         "name": "Windfury Harpy",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2340,8 +2684,18 @@
         "image": "EX1_033"
     },
     {
+        "name": "Stranglethorn Tiger",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 5,
+        "health": 5,
+        "descr": "Stealth",
+        "image": "EX1_028"
+    },
+    {
         "name": "Circle of Healing",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2353,7 +2707,6 @@
     },
     {
         "name": "Snake Trap",
-        "class": "Hunter",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -2365,7 +2718,6 @@
     },
     {
         "name": "Cabal Shadow Priest",
-        "class": "Priest",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -2377,7 +2729,6 @@
     },
     {
         "name": "Upgrade!",
-        "class": "Warrior",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2389,7 +2740,6 @@
     },
     {
         "name": "Shield Slam",
-        "class": "Warrior",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -2400,8 +2750,18 @@
         "image": "EX1_410"
     },
     {
+        "name": "Windfury",
+        "rarity": null,
+        "type": null,
+        "race": "Shaman",
+        "manna": 2,
+        "attack": null,
+        "health": null,
+        "descr": "Give a minion Windfury.",
+        "image": "CS2_039"
+    },
+    {
         "name": "Nat Pagle",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -2413,7 +2773,6 @@
     },
     {
         "name": "Houndmaster",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2425,7 +2784,6 @@
     },
     {
         "name": "Water Elemental",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2437,7 +2795,6 @@
     },
     {
         "name": "Eaglehorn Bow",
-        "class": "Hunter",
         "rarity": "Rare",
         "type": "Weapon",
         "race": "",
@@ -2449,7 +2806,6 @@
     },
     {
         "name": "Archmage Antonidas",
-        "class": "Mage",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -2461,7 +2817,6 @@
     },
     {
         "name": "Kill Command",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2473,7 +2828,6 @@
     },
     {
         "name": "Mana Tide Totem",
-        "class": "Shaman",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -2485,7 +2839,6 @@
     },
     {
         "name": "Drain Life",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2497,7 +2850,6 @@
     },
     {
         "name": "Doomsayer",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -2509,7 +2861,6 @@
     },
     {
         "name": "Darkscale Healer",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2521,7 +2872,6 @@
     },
     {
         "name": "Shadowform",
-        "class": "Priest",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -2533,7 +2883,6 @@
     },
     {
         "name": "Frost Nova",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2545,7 +2894,6 @@
     },
     {
         "name": "Mirror Entity",
-        "class": "Mage",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2557,7 +2905,6 @@
     },
     {
         "name": "Counterspell",
-        "class": "Mage",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2569,7 +2916,6 @@
     },
     {
         "name": "Magma Rager",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2581,7 +2927,6 @@
     },
     {
         "name": "Wolfrider",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2592,8 +2937,18 @@
         "image": "CS2_124"
     },
     {
+        "name": "Gelbin Mekkatorque",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 6,
+        "attack": 6,
+        "health": 6,
+        "descr": "Battlecry: Summon an AWESOME invention.",
+        "image": "EX1_112"
+    },
+    {
         "name": "Inner Rage",
-        "class": "Warrior",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2605,7 +2960,6 @@
     },
     {
         "name": "Heroic Strike",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2617,7 +2971,6 @@
     },
     {
         "name": "Doomhammer",
-        "class": "Shaman",
         "rarity": "Epic",
         "type": "Weapon",
         "race": "",
@@ -2629,7 +2982,6 @@
     },
     {
         "name": "Tracking",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2641,7 +2993,6 @@
     },
     {
         "name": "Fireball",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2652,8 +3003,29 @@
         "image": "CS2_029"
     },
     {
+        "name": "Booty Bay Bodyguard",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 5,
+        "health": 4,
+        "descr": "Taunt",
+        "image": "CS2_187"
+    },
+    {
+        "name": "Scarlet Crusader",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 3,
+        "health": 1,
+        "descr": "Divine Shield",
+        "image": "EX1_020"
+    },
+    {
         "name": "Voodoo Doctor",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2665,7 +3037,6 @@
     },
     {
         "name": "Shadow Bolt",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2677,7 +3048,6 @@
     },
     {
         "name": "Ethereal Arcanist",
-        "class": "Mage",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -2689,7 +3059,6 @@
     },
     {
         "name": "Succubus",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Demon",
@@ -2701,7 +3070,6 @@
     },
     {
         "name": "Emperor Cobra",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Beast",
@@ -2713,7 +3081,6 @@
     },
     {
         "name": "Deadly Shot",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2725,7 +3092,6 @@
     },
     {
         "name": "Claw",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2737,7 +3103,6 @@
     },
     {
         "name": "Explosive Shot",
-        "class": "Hunter",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2749,7 +3114,6 @@
     },
     {
         "name": "Avenging Wrath",
-        "class": "Paladin",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -2761,7 +3125,6 @@
     },
     {
         "name": "Argent Protector",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2773,7 +3136,6 @@
     },
     {
         "name": "Felguard",
-        "class": "Warlock",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Demon",
@@ -2785,7 +3147,6 @@
     },
     {
         "name": "Northshire Cleric",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2797,7 +3158,6 @@
     },
     {
         "name": "Leper Gnome",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2809,7 +3169,6 @@
     },
     {
         "name": "Fire Elemental",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2821,7 +3180,6 @@
     },
     {
         "name": "Snipe",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -2832,8 +3190,18 @@
         "image": "EX1_609"
     },
     {
+        "name": "Southsea Captain",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 3,
+        "health": 3,
+        "descr": "Your other Pirates have +1\/+1.",
+        "image": "NEW1_027"
+    },
+    {
         "name": "Bite",
-        "class": "Druid",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2845,7 +3213,6 @@
     },
     {
         "name": "Defias Ringleader",
-        "class": "Rogue",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -2856,8 +3223,18 @@
         "image": "EX1_131"
     },
     {
+        "name": "Harvest Golem",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 2,
+        "health": 3,
+        "descr": "Deathrattle: Summon a 2\/1 Damaged Golem.",
+        "image": "EX1_556"
+    },
+    {
         "name": "King Krush",
-        "class": "Hunter",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Beast",
@@ -2869,7 +3246,6 @@
     },
     {
         "name": "Lorewalker Cho",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -2881,7 +3257,6 @@
     },
     {
         "name": "Hunter's Mark",
-        "class": "Hunter",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2893,7 +3268,6 @@
     },
     {
         "name": "Dalaran Mage",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2904,8 +3278,18 @@
         "image": "EX1_582"
     },
     {
+        "name": "Twilight Drake",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 4,
+        "health": 1,
+        "descr": "Battlecry: Gain +1 Health for each card in your hand.",
+        "image": "EX1_043"
+    },
+    {
         "name": "Coldlight Oracle",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "Murloc",
@@ -2917,7 +3301,6 @@
     },
     {
         "name": "Molten Giant",
-        "class": "All",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -2929,7 +3312,6 @@
     },
     {
         "name": "Shadowflame",
-        "class": "Warlock",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -2940,8 +3322,18 @@
         "image": "EX1_303"
     },
     {
+        "name": "Argent Commander",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 6,
+        "attack": 4,
+        "health": 2,
+        "descr": "Charge, Divine Shield",
+        "image": "EX1_067"
+    },
+    {
         "name": "Arcane Missiles",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2953,7 +3345,6 @@
     },
     {
         "name": "Ancient of War",
-        "class": "Druid",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -2965,7 +3356,6 @@
     },
     {
         "name": "Stormwind Champion",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -2977,7 +3367,6 @@
     },
     {
         "name": "Swipe",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -2989,7 +3378,6 @@
     },
     {
         "name": "Hex",
-        "class": "Shaman",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3001,7 +3389,6 @@
     },
     {
         "name": "Ysera",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Dragon",
@@ -3013,7 +3400,6 @@
     },
     {
         "name": "Arcane Golem",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -3025,7 +3411,6 @@
     },
     {
         "name": "Blood Imp",
-        "class": "Warlock",
         "rarity": "Common",
         "type": "Minion",
         "race": "Demon",
@@ -3037,7 +3422,6 @@
     },
     {
         "name": "Pyroblast",
-        "class": "Mage",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -3049,7 +3433,6 @@
     },
     {
         "name": "Murloc Raider",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Murloc",
@@ -3061,7 +3444,6 @@
     },
     {
         "name": "Spellbender",
-        "class": "Mage",
         "rarity": "Epic",
         "type": "Spell",
         "race": "",
@@ -3073,7 +3455,6 @@
     },
     {
         "name": "Faerie Dragon",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -3085,7 +3466,6 @@
     },
     {
         "name": "Sinister Strike",
-        "class": "Rogue",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3097,7 +3477,6 @@
     },
     {
         "name": "Power Overwhelming",
-        "class": "Warlock",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3109,7 +3488,6 @@
     },
     {
         "name": "Arcane Explosion",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3120,8 +3498,18 @@
         "image": "CS2_025"
     },
     {
+        "name": "Shadow Word: Pain",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 2,
+        "attack": null,
+        "health": null,
+        "descr": "Destroy a minion with 3 or less Attack.",
+        "image": "CS2_234"
+    },
+    {
         "name": "Noble Sacrifice",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3133,7 +3521,6 @@
     },
     {
         "name": "Dread Infernal",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Demon",
@@ -3145,7 +3532,6 @@
     },
     {
         "name": "Naturalize",
-        "class": "Druid",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3157,7 +3543,6 @@
     },
     {
         "name": "Wrath",
-        "class": "Druid",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3168,8 +3553,29 @@
         "image": "EX1_154"
     },
     {
+        "name": "Secretkeeper",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 1,
+        "attack": 1,
+        "health": 2,
+        "descr": "Whenever a Secret is played, gain +1\/+1.",
+        "image": "EX1_080"
+    },
+    {
+        "name": "Dread Corsair",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 3,
+        "health": 3,
+        "descr": "Taunt. Costs (1) less per Attack of your weapon.",
+        "image": "NEW1_022"
+    },
+    {
         "name": "Forked Lightning",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3181,7 +3587,6 @@
     },
     {
         "name": "Hand of Protection",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3193,7 +3598,6 @@
     },
     {
         "name": "Vaporize",
-        "class": "Mage",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -3205,7 +3609,6 @@
     },
     {
         "name": "Nozdormu",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Dragon",
@@ -3217,7 +3620,6 @@
     },
     {
         "name": "Divine Spirit",
-        "class": "Priest",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3229,7 +3631,6 @@
     },
     {
         "name": "Armorsmith",
-        "class": "Warrior",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -3241,7 +3642,6 @@
     },
     {
         "name": "Murloc Tidehunter",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Murloc",
@@ -3253,7 +3653,6 @@
     },
     {
         "name": "Tundra Rhino",
-        "class": "Hunter",
         "rarity": "Common",
         "type": "Minion",
         "race": "Beast",
@@ -3265,7 +3664,6 @@
     },
     {
         "name": "Summoning Portal",
-        "class": "Warlock",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -3277,7 +3675,6 @@
     },
     {
         "name": "Hammer of Wrath",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3289,7 +3686,6 @@
     },
     {
         "name": "Stormwind Knight",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -3301,7 +3697,6 @@
     },
     {
         "name": "Mad Bomber",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -3313,7 +3708,6 @@
     },
     {
         "name": "Consecration",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3325,7 +3719,6 @@
     },
     {
         "name": "Knife Juggler",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -3337,7 +3730,6 @@
     },
     {
         "name": "Ice Barrier",
-        "class": "Mage",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3349,7 +3741,6 @@
     },
     {
         "name": "Light's Justice",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Weapon",
         "race": "",
@@ -3361,7 +3752,6 @@
     },
     {
         "name": "Lava Burst",
-        "class": "Shaman",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -3373,7 +3763,6 @@
     },
     {
         "name": "Mind Control Tech",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -3385,7 +3774,6 @@
     },
     {
         "name": "Boulderfist Ogre",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -3397,7 +3785,6 @@
     },
     {
         "name": "Priestess of Elune",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -3408,8 +3795,18 @@
         "image": "EX1_583"
     },
     {
+        "name": "Ancient Mage",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 4,
+        "attack": 2,
+        "health": 5,
+        "descr": "Battlecry: Give adjacent minions Spell Damage +1.",
+        "image": "EX1_584"
+    },
+    {
         "name": "Mark of Nature",
-        "class": "Druid",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3420,8 +3817,18 @@
         "image": "EX1_155"
     },
     {
+        "name": "Shadow Word: Death",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 3,
+        "attack": null,
+        "health": null,
+        "descr": "Destroy a minion with an Attack of 5 or more.",
+        "image": "EX1_622"
+    },
+    {
         "name": "Ironbeak Owl",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "Beast",
@@ -3433,7 +3840,6 @@
     },
     {
         "name": "Eviscerate",
-        "class": "Rogue",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3445,7 +3851,6 @@
     },
     {
         "name": "Repentance",
-        "class": "Paladin",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3456,8 +3861,18 @@
         "image": "EX1_379"
     },
     {
+        "name": "Sunwalker",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 6,
+        "attack": 4,
+        "health": 5,
+        "descr": "Taunt. Divine Shield",
+        "image": "EX1_032"
+    },
+    {
         "name": "Slam",
-        "class": "Warrior",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3469,7 +3884,6 @@
     },
     {
         "name": "Sword of Justice",
-        "class": "Paladin",
         "rarity": "Epic",
         "type": "Weapon",
         "race": "",
@@ -3481,7 +3895,6 @@
     },
     {
         "name": "Whirlwind",
-        "class": "Warrior",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3493,7 +3906,6 @@
     },
     {
         "name": "Illidan Stormrage",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "",
@@ -3504,8 +3916,18 @@
         "image": "EX1_614"
     },
     {
+        "name": "Alexstrasza",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 9,
+        "attack": 8,
+        "health": 8,
+        "descr": "Battlecry: Set a hero's remaining Health to 15.",
+        "image": "EX1_561"
+    },
+    {
         "name": "Silence",
-        "class": "Priest",
         "rarity": "Common",
         "type": "Spell",
         "race": "",
@@ -3517,7 +3939,6 @@
     },
     {
         "name": "Voidwalker",
-        "class": "Warlock",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Demon",
@@ -3529,7 +3950,6 @@
     },
     {
         "name": "Flamestrike",
-        "class": "Mage",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3541,7 +3961,6 @@
     },
     {
         "name": "River Crocolisk",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -3553,7 +3972,6 @@
     },
     {
         "name": "Stormforged Axe",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Weapon",
         "race": "",
@@ -3564,8 +3982,29 @@
         "image": "EX1_247"
     },
     {
+        "name": "Temple Enforcer",
+        "rarity": null,
+        "type": null,
+        "race": "Priest",
+        "manna": 6,
+        "attack": 6,
+        "health": 6,
+        "descr": "Battlecry: Give a friendly minion +3 Health.",
+        "image": "EX1_623"
+    },
+    {
+        "name": "Imp Master",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 3,
+        "attack": 1,
+        "health": 5,
+        "descr": "At the end of your turn, deal 1 damage to this minion and summon a 1\/1 Imp.",
+        "image": "EX1_597"
+    },
+    {
         "name": "Savage Roar",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3577,7 +4016,6 @@
     },
     {
         "name": "Innervate",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3589,7 +4027,6 @@
     },
     {
         "name": "Earth Elemental",
-        "class": "Shaman",
         "rarity": "Epic",
         "type": "Minion",
         "race": "",
@@ -3600,8 +4037,18 @@
         "image": "EX1_250"
     },
     {
+        "name": "Faceless Manipulator",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 3,
+        "health": 3,
+        "descr": "Battlecry: Choose a minion and become a copy of it.",
+        "image": "EX1_564"
+    },
+    {
         "name": "Divine Favor",
-        "class": "Paladin",
         "rarity": "Rare",
         "type": "Spell",
         "race": "",
@@ -3613,7 +4060,6 @@
     },
     {
         "name": "Demolisher",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -3625,7 +4071,6 @@
     },
     {
         "name": "Sunfury Protector",
-        "class": "All",
         "rarity": "Rare",
         "type": "Minion",
         "race": "",
@@ -3637,7 +4082,6 @@
     },
     {
         "name": "Dust Devil",
-        "class": "Shaman",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -3649,7 +4093,6 @@
     },
     {
         "name": "Holy Light",
-        "class": "Paladin",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3661,7 +4104,6 @@
     },
     {
         "name": "Feral Spirit",
-        "class": "Shaman",
         "rarity": "Basic",
         "type": "Spell",
         "race": "",
@@ -3673,7 +4115,6 @@
     },
     {
         "name": "Raid Leader",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -3685,7 +4126,6 @@
     },
     {
         "name": "Amani Berserker",
-        "class": "All",
         "rarity": "Common",
         "type": "Minion",
         "race": "",
@@ -3697,7 +4137,6 @@
     },
     {
         "name": "Ironbark Protector",
-        "class": "Druid",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -3709,7 +4148,6 @@
     },
     {
         "name": "Deathwing",
-        "class": "All",
         "rarity": "Legendary",
         "type": "Minion",
         "race": "Dragon",
@@ -3721,7 +4159,6 @@
     },
     {
         "name": "Stormpike Commando",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "",
@@ -3733,7 +4170,6 @@
     },
     {
         "name": "Silverback Patriarch",
-        "class": "All",
         "rarity": "Basic",
         "type": "Minion",
         "race": "Beast",
@@ -3745,7 +4181,6 @@
     },
     {
         "name": "Gladiator's Longbow",
-        "class": "Hunter",
         "rarity": "Epic",
         "type": "Weapon",
         "race": "",
@@ -3754,5 +4189,16 @@
         "health": null,
         "descr": "Your hero is Immune while attacking.",
         "image": "DS1_188"
+    },
+    {
+        "name": "Elite Tauren Chieftain",
+        "rarity": null,
+        "type": null,
+        "race": "Any",
+        "manna": 5,
+        "attack": 5,
+        "health": 5,
+        "descr": "Battlecry: Give both players the power to ROCK! (with a Power Chord card)",
+        "image": "PRO_001"
     }
 ]
